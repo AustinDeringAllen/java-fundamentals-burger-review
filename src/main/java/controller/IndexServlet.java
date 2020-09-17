@@ -1,8 +1,5 @@
 package controller;
 
-<<<<<<< HEAD
-public class IndexServlet {
-=======
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -27,5 +24,4 @@ public class IndexServlet extends HttpServlet {
         // the path is relative to our 'webapp' folder
 
     }
->>>>>>> upstream/master
 }
